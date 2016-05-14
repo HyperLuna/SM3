@@ -1,0 +1,28 @@
+{
+  "name": "sm3",
+  "version": "0.0.1",
+  "description": "SM3 hash algorithm implemented by CoffeeScript",
+  "main": "sm3.coffee",
+  "dependencies": {
+    "md5": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LiQuidFly/SM3.git"
+  },
+  "keywords": [
+    "sm3",
+    "hash",
+    "encryption"
+  ],
+  "author": "LV QF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiQuidFly/SM3/issues"
+  },
+  "homepage": "https://github.com/LiQuidFly/SM3#readme"
+}
