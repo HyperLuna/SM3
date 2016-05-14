@@ -1,10 +1,10 @@
 {
   "name": "sm3",
   "version": "0.0.1",
-  "description": "SM3 hash algorithm implemented by CoffeeScript",
+  "description": "SM3 hash function implemented by CoffeeScript",
   "main": "sm3.coffee",
   "dependencies": {
-    "md5": "^2.1.0"
+    "crypt": "~0.0.1"
   },
   "devDependencies": {},
   "scripts": {
